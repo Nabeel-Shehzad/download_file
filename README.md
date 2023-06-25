@@ -18,7 +18,7 @@ Flutter File Downloader is a project that allows users to pick a directory from 
 
 1. Clone the repository:
 
-git clone https://github.com/nabeel-shehzad/flutter-file-downloader.git
+git clone https://github.com/Nabeel-Shehzad/download_file.git
 
 2. Change into the project directory:
 
